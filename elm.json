@@ -3,7 +3,7 @@
     "name": "bChiquet/elm-test-deps",
     "summary": "Show a pattern to expose package modules for test only",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "exposed-modules": [
         "Add"
     ],
